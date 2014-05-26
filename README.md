@@ -1,7 +1,7 @@
 skype-adfree
 ============
 
-A registry key that disables ads on Skype for Windows. (Open with regedit)
+A registry key that disables ads on Skype for Windows. Merge it in using regedit, restart Skype, and enjoy.
 
 ##What it does
 
