@@ -15,4 +15,4 @@ Exclusion Zone 4 only prevents scripting and active content, which ads rely on.
 
 ##Reverting the changes
 
-Merge in skype-adfree-UNINSTALL.reg
+Merge in [skype-adfree-UNINSTALL.reg](https://github.com/efskap/skype-adfree/raw/master/skype-adfree-UNINSTALL.reg)
