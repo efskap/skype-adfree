@@ -15,8 +15,4 @@ Exclusion Zone 4 only prevents scripting and active content, which ads rely on.
 
 ##Reverting the changes
 
-Delete 
-```
-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\skype.com 
-```
-through regedit.
+Merge in skype-adfree-UNINSTALL.reg
